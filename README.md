@@ -4,9 +4,9 @@
   <br>
 </h1>
 
-[![GitHub Release](https://img.shields.io/github/v/release/pflyly/eden-nightly?label=Current%20Release)](https://github.com/pflyly/eden-nightly/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/pflyly/eden-nightly/total?logo=github&label=GitHub%20Downloads)](https://github.com/pflyly/eden-nightly/releases/latest)
-[![CI Build Status](https://github.com//pflyly/eden-nightly/actions/workflows/build-nightly.yml/badge.svg)](https://github.com/pflyly/eden-nightly/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/42es/eden-nightly?label=Current%20Release)](https://github.com/42es/eden-nightly/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/42es/eden-nightly/total?logo=github&label=GitHub%20Downloads)](https://github.com/42es/eden-nightly/releases/latest)
+[![CI Build Status](https://github.com/42es/eden-nightly/actions/workflows/build-nightly.yml/badge.svg)](https://github.com/42es/eden-nightly/releases/latest)
 
 ## Release Overview
 
@@ -31,10 +31,10 @@ Profile-Guided Optimization (**PGO**) is now being tested via clang for Eden nig
 PGO builds can improve runtime performance by **5–10% FPS** compared to non-PGO builds, depending on the game and workload.
 
 <p align="center">
-  <img src="https://github.com/pflyly/eden-nightly/blob/main/pgo/TOTK1.jpg" width="400">
-  <img src="https://github.com/pflyly/eden-nightly/blob/main/pgo/TOTK2.jpg" width="400">
-  <img src="https://github.com/pflyly/eden-nightly/blob/main/pgo/TOTK3.jpg" width="400">
-  <img src="https://github.com/pflyly/eden-nightly/blob/main/pgo/TOTK4.jpg" width="400">
+  <img src="https://github.com/42es/eden-nightly/blob/main/pgo/TOTK1.jpg" width="400">
+  <img src="https://github.com/42es/eden-nightly/blob/main/pgo/TOTK2.jpg" width="400">
+  <img src="https://github.com/42es/eden-nightly/blob/main/pgo/TOTK3.jpg" width="400">
+  <img src="https://github.com/42es/eden-nightly/blob/main/pgo/TOTK4.jpg" width="400">
 </p>
 
 For now, PGO builds are provided alongside regular builds. 
